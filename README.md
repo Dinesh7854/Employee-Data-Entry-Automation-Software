@@ -27,11 +27,4 @@ The project is ideal for HR departments, admin staff, or small businesses who wa
 | Database      | MySQL             |
 | Web Server    | Apache (via XAMPP) |
 
----
-
-## 📁 File Structure
-employee-data-entry/
-├── form.html # Employee data entry form
-├── connection.php # MySQL database connection
-└── file.php # Form submission handling and data insertion
 
